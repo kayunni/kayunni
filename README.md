@@ -5,8 +5,6 @@ Backend developer building server-side systems and AI services.
 <a href="mailto:gykim0129@gmail.com"><img src="https://img.shields.io/badge/Email-gykim0129@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://kayunni.github.io"><img src="https://img.shields.io/badge/Blog-kayunni.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 
-<br>
-
 ### 👩🏻‍💻 About
 - Art & Technology and Computer Science double major at **Sogang University** (graduating Feb 2027)
 - Backend developer at **Likelion Sogang**, 13th cohort (Mar – Dec 2025)
@@ -39,9 +37,7 @@ Backend developer building server-side systems and AI services.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
-<br>
-
-<br>
+---
 
 서버와 AI 서비스를 만드는 백엔드 개발자입니다.
 
@@ -63,5 +59,3 @@ Backend developer building server-side systems and AI services.
 - **혁신기술상**, 테크포임팩트 캠퍼스, 2026 (NETLOG)
 - **동상**, 신촌 대학 연합 SW 창업 경진대회, 2025 (Runcord)
 - **우수팀**, 아트&테크놀로지 캡스톤, 2025 (GLASS LAB)
-
-</details>
