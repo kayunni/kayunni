@@ -7,7 +7,7 @@ Backend developer building server-side systems and AI services.
 
 <br>
 
-### 👋 About
+### 👩🏻‍💻 About
 - Art & Technology and Computer Science double major at **Sogang University** (graduating Feb 2027)
 - Backend developer at **Likelion Sogang**, 13th cohort (Mar – Dec 2025)
 - **AI Global Exploration Program**: Silicon Valley developer hackathon and CES 2026 (Dec 2025 – Jan 2026)
@@ -41,14 +41,11 @@ Backend developer building server-side systems and AI services.
 
 <br>
 
-<details>
-<summary><b>🇰🇷 한국어</b></summary>
-
 <br>
 
 서버와 AI 서비스를 만드는 백엔드 개발자입니다.
 
-### 👋 About
+### 👩🏻‍💻 About
 - **서강대학교** 아트&테크놀로지 · 컴퓨터공학 복수전공 (2027년 2월 졸업 예정)
 - **멋쟁이사자처럼 서강대** 13기 백엔드 (2025.03 – 2025.12)
 - **AI 글로벌 탐방 프로그램**: 실리콘밸리 개발자 해커톤, CES 2026 참관 (2025.12 – 2026.01)
