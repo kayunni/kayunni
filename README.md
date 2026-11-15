@@ -8,7 +8,6 @@
 - **ATC 2024** 학과 컨퍼런스 웹개발팀 (2024.05 – 2024.12)
 - **아트&테크놀로지학과 미디어오피스** 조교 (2024.09 – )
 - **알파 시그마 누** 회원 (2024 – )
-- **AI 글로벌 탐방 프로그램**: AX 해커톤, CES 2026 참관 (2025.12 – 2026.01)
 
 ### 📂 Featured Work
 | 프로젝트 | 소개 | 역할 |
@@ -31,7 +30,6 @@
 - **ATC 2024**, Art & Technology conference web team (2024.05 – 2024.12)
 - **Art & Technology Media Office**, assistant (2024.09 – )
 - **Alpha Sigma Nu** member (2024 – )
-- **AI Global Exploration Program**: AX hackathon, CES 2026 (2025.12 – 2026.01)
 
 ### 📂 Featured Work
 | Project | About | Role |
