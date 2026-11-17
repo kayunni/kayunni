@@ -20,7 +20,7 @@
 ### 🏅 Recognition
 - **혁신기술상**, 테크포임팩트 캠퍼스, 2026 (NETLOG)
 - **동상**, 신촌 대학 연합 SW 창업 경진대회, 2025 (Runcord)
-- **우수팀**, 아트&테크놀로지 캡스톤, 2025 (GLASS LAB)
+- **우수팀**, 아트&테크놀로지 Small Creators Group, 2025 (GLASS LAB)
 
 ---
 
@@ -42,7 +42,7 @@
 ### 🏅 Recognition
 - **Innovation Technology Award**, Tech for Impact Campus, 2026 (NETLOG)
 - **Bronze Award**, Sinchon SW Startup Competition, 2025 (Runcord)
-- **Outstanding Team Award**, Art & Technology Capstone, 2025 (GLASS LAB)
+- **Outstanding Team Award**, Art & Technology Small Creators Group, 2025 (GLASS LAB)
 
 ---
 
