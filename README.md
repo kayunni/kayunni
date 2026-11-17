@@ -3,7 +3,7 @@
 <a href="mailto:gykim0129@gmail.com"><img src="https://img.shields.io/badge/Email-gykim0129@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://kayunni.github.io"><img src="https://img.shields.io/badge/Blog-kayunni.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 
 ### 👩🏻‍💻 About
-- **서강대학교** 아트&테크놀로지 · 컴퓨터공학 복수전공 (2027.02 졸업 예정)
+- **서강대학교** 아트&테크놀로지 / 컴퓨터공학
 - **멋쟁이사자처럼 서강대** 13기 백엔드 개발 (2025.03 – 2025.12)
 - **ATC 2024** 학과 컨퍼런스 웹개발팀 (2024.05 – 2024.12)
 - **아트&테크놀로지학과 미디어오피스** 조교 (2024.09 – )
@@ -25,7 +25,7 @@
 ---
 
 ### 👩🏻‍💻 About
-- **Sogang University**, Art & Technology and Computer Science double major (graduating 2027.02)
+- **Sogang University**, Art & Technology and Computer Science (expected 2027.02)
 - **Likelion Sogang**, 13th cohort, backend development (2025.03 – 2025.12)
 - **ATC 2024**, Art & Technology conference web team (2024.05 – 2024.12)
 - **Art & Technology Media Office**, assistant (2024.09 – )
